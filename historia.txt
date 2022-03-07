@@ -1,4 +1,4 @@
 Esta es mi historia
 
 tengo 45 años
-y estoy trabajndo con Git.
+y estoy trabajando (aprendiendo) con Git.
