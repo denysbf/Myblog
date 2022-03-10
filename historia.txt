@@ -1,4 +1,4 @@
-Esta es mi historia
+Esta es la historia de mi vida
 
 tengo 45 años
 y estoy trabajando (aprendiendo) con Git.
@@ -6,3 +6,5 @@ y estoy trabajando (aprendiendo) con Git.
 Agregué una línea más a mi historia
 
 Hoy es jueves 10 de marzo de 2022
+
+Hoy hablaremos de la historia de mi vida.
