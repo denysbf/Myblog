@@ -1,0 +1,22 @@
+#container
+{
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: 0px solid #DDD;
+    margin: 0 auto;
+}
+
+#cabecera #logo
+{
+    width: 200px;
+    vertical-align: middle;
+    padding: 0.5em;
+}
+
+img {
+    display: block;
+    margin: 0px auto;
+    max-width: 15%;
+    max-height: 15%;
+}
