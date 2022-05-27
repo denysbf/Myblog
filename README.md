@@ -1,4 +1,4 @@
-# Myblog :blush: :smiley: :tiger
+# Myblog :blush: :smiley:
 ##### **Este es un ejemplo con el que estoy aprendiendo a usar git.**
 
 Durante este curso he aprendido lo siguiente:
