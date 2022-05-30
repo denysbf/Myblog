@@ -13,3 +13,5 @@ Durante este curso he aprendido lo siguiente:
 - Flujos de trabajo
 - Pull Requests
 - Creando un Fork, contribuyendo a un repositorio
+- Creado por el poderoso equipo Platzi
+- Inclute ejemplos
