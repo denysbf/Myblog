@@ -14,4 +14,5 @@ Durante este curso he aprendido lo siguiente:
 - Pull Requests
 - Creando un Fork, contribuyendo a un repositorio
 - Creado por el poderoso equipo Platzi
-- Inclute ejemplos
+- Incluye ejemplos
+- Disponible para todas las edades
